@@ -1,0 +1,40 @@
+:root{
+
+    /*Color Scheme*/
+    --Primary:#203c2e;
+    --Primary-light: #9fccb1;
+    --Primary-extra-light:#daf4ec;
+    --Primary-dark:#095e77;
+    --Secondary:#074e00;
+    --Secondary-light:#6bab70;
+    --Secondary-extra-light:#81c67c;
+    --Secondary-dark:#a200db;
+    --Danger:#ee008d;
+    --Danger-light:#f183be;
+    --Danger-dark:#b10068;
+    --Warning:#ee5f14;
+    --Warning-light:#ff8e1f;
+    --Warning-extra-light:#fff2e0;
+    --Warning-dark:#e5410f;
+    --Success:#90f138;
+    --Success-light:#c6f894;
+    --Success-extra-light:#f2fee5;
+    --Success-dark:#08b226;
+    --Gray:#595959;
+    --Gray-light:#767676;
+    --Gray-extra-light:#e0e0e0;
+    --Gray-dark:#272727;
+    --White:#fffff;
+    --Primary-gradient:linear-gradient(180deg, #ffffff 0%, #b1d5c3 100%);
+    --Primary-gradient-rev:linear-gradient(180deg, #b1d5c3 0%, #b1d5c3 100%);
+
+    /*Fonts*/
+    --font-size-h1:6rem;
+    --font-size-h2:3.75rem;
+    --font-size-h3:3rem;
+    --font-size-h4:2.125rem;
+    --font-size-h5:1.5rem;
+    --font-size-h6:1.25rem;
+    --font-size-body-small:0.875rem;
+    --font-size-button:0.875rem;
+}
